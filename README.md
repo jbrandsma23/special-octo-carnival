@@ -10,7 +10,9 @@ How old am I?
 I'm excited to tap into my almost-forgotten passion (SHOUT OUT to my good friend Clay Cribbs for re-introducing me) for writing code and learning more than just HTML and CSS! The possibilities are endless! How exciting?!
 
 "The expert in anything was once a beginner."
+
 "A journey of a thousand miles begins with one step."
+
 "How do you eat an elephant? One bite at a time." (thanks Dad)
 
 Here goes!
